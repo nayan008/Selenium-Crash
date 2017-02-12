@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Automation Test">
+	<test name = "smoke Test">
+	<groups>
+	<run>
+	<include name = "priority2" />
+	</run>
+	</groups>
+	<classes>
+	<class name = "com.talentech.testNG.annotations1"/>
+	<class name = "com.talentech.testNG.annotations2"/>
+	<class name = "com.talentech.testNG.annotations3"/>
+	</classes>
+	</test>
+</suite>

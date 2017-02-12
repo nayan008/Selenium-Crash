@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name= "Automation Test">
+	<test name = "smoke Test">
+	<parameter name = "userId" value="UserName1" />
+	<parameter name = "userPass" value="Password1" />
+	<classes>
+	<class name = "com.talentech.testNG.annotations4"/>
+	</classes>
+	</test>
+</suite>
